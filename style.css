@@ -29,7 +29,11 @@ a {
     position: fixed;
     z-index: 2;
     width: 100%;
+<<<<<<< HEAD
     height: 100px;
+=======
+    height: 160px;
+>>>>>>> 77ddbc14403b3751f771b55909543606db285eeb
     font-size: 15px;
     top: 0;
     left: 0;
